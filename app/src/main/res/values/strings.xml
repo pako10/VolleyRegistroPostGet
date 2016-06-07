@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VolleyRegistroPost</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="title_activity_http_url_post">HttpUrlPostActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
